@@ -1,0 +1,46 @@
+p;beta;genus;feature;n;q
+2.11E-06;-0.260971781;g__Nitrosomonadaceae_966-1;AntimicrobialTherapy;347;9.39E-05
+3.63E-06;-0.193380972;g__Nitrosomonadaceae_966-1;AnimalContact;347;0.000153917
+4.57E-06;0.267109654;g__Nitrosomonadaceae_966-1;SkinCreme;347;0.000187835
+0.003939176;0.283090535;g__Nitrosomonadaceae_966-1;Antibiotics;347;0.067998182
+0.015952575;-0.064590538;g__Nitrosomonadaceae_966-1;SpecialNutrition;347;0.197765754
+0.016402553;-0.183615486;g__Nitrosomonadaceae_966-1;Antiseptica;347;0.200909029
+0.017848592;-0.250671458;g__Nitrospira;AntimicrobialTherapy;347;0.211354566
+0.020699152;-0.221130483;g__Nitrosomonadaceae_966-1;ShoweringDaily;347;0.23543644
+0.020699152;0.221130483;g__Nitrosomonadaceae_966-1;Statins;347;0.23543644
+0.021368503;-0.184702975;g__Nitrospira;AnimalContact;347;0.241180165
+0.021695551;0.25705373;g__Nitrospira;SkinCreme;347;0.24452946
+0.031351541;0.276530938;g__Nitrosomonadaceae_966-1;Gardening;339;0.302999391
+0.126906796;-0.041165106;g__uncultured Nitrosomonadaceae bacterium;SpecialNutrition;347;0.663546253
+0.130051075;0.089928007;g__uncultured Nitrosomonadaceae bacterium;SkinCreme;347;0.668719006
+0.154086977;0.26676434;g__Nitrospira;Antibiotics;347;0.728388777
+0.156993149;-0.079494145;g__uncultured Nitrosomonadaceae bacterium;AntimicrobialTherapy;347;0.735094117
+0.214811305;-0.063262379;g__Nitrospira;SpecialNutrition;347;0.831934456
+0.237133622;-0.172132556;g__Nitrospira;Antiseptica;347;0.867012974
+0.254849962;-0.207071299;g__Nitrospira;ShoweringDaily;347;0.875489435
+0.254849962;0.207071299;g__Nitrospira;Statins;347;0.875489435
+0.280880691;0.037118527;g__uncultured Nitrosomonadaceae bacterium;Alcohol;347;0.901730829
+0.290697058;0.258624739;g__Nitrospira;Gardening;339;0.911747088
+0.341964209;-0.040507979;g__uncultured Nitrosomonadaceae bacterium;AnimalContact;347;0.95864254
+0.750505409;-0.007798842;g__Nitrosomonadaceae_966-1;Pets;347;0.999832523
+0.910206456;-0.002098652;g__Nitrosomonadaceae_966-1;Smoker;347;0.999832523
+0.835093045;0.00714914;g__Nitrosomonadaceae_966-1;Alcohol;347;0.999832523
+0.884816725;0.003383049;g__Nitrosomonadaceae_966-1;AntibioticTherapy;347;0.999832523
+0.695905852;0.00716113;g__Nitrosomonadaceae_966-1;Psoriasis;347;0.999832523
+0.695905852;0.00716113;g__Nitrosomonadaceae_966-1;Dermatitis;347;0.999832523
+0.851885966;-0.008682183;g__Nitrospira;Pets;347;0.999832523
+0.906770102;-0.004132023;g__Nitrospira;Smoker;347;0.999832523
+0.891858688;0.00885246;g__Nitrospira;Alcohol;347;0.999832523
+0.939997617;-0.003332841;g__Nitrospira;AntibioticTherapy;347;0.999832523
+0.810509731;0.008328463;g__Nitrospira;Psoriasis;347;0.999832523
+0.810509731;0.008328463;g__Nitrospira;Dermatitis;347;0.999832523
+0.7498289;-0.041277983;g__uncultured Nitrosomonadaceae bacterium;Gardening;339;0.999832523
+0.512388312;-0.016125184;g__uncultured Nitrosomonadaceae bacterium;Pets;347;0.999832523
+0.974111018;-0.000605875;g__uncultured Nitrosomonadaceae bacterium;Smoker;347;0.999832523
+0.783533185;0.026463635;g__uncultured Nitrosomonadaceae bacterium;ShoweringDaily;347;0.999832523
+0.964233501;-0.004448895;g__uncultured Nitrosomonadaceae bacterium;Antibiotics;347;0.999832523
+0.809340457;0.018611055;g__uncultured Nitrosomonadaceae bacterium;Antiseptica;347;0.999832523
+0.951574106;0.001422856;g__uncultured Nitrosomonadaceae bacterium;AntibioticTherapy;347;0.999832523
+0.783533185;-0.026463635;g__uncultured Nitrosomonadaceae bacterium;Statins;347;0.999832523
+0.56648764;0.010538627;g__uncultured Nitrosomonadaceae bacterium;Psoriasis;347;0.999832523
+0.56648764;0.010538627;g__uncultured Nitrosomonadaceae bacterium;Dermatitis;347;0.999832523

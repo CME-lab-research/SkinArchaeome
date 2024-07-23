@@ -1,0 +1,85 @@
+p;beta;genus;feature;n;q
+1.09E-06;-0.005466554;g__uncultured Nitrosomonadaceae bacterium;Faith_phylogenetic_diversity;347;5.48E-05
+1.60335E-06;0.018960632;g__Nitrosomonadaceae_966-1;MeatConsumptionWeekly;347;7.90601E-05
+3.97398E-06;-0.344941308;g__Nitrosomonadaceae_966-1;Meals;347;0.000186202
+2.25391E-05;0.012362785;g__Nitrosomonadaceae_966-1;SportsWeeklyHrs;347;0.000912713
+6.62836E-05;-0.060895323;g__Nitrosomonadaceae_966-1;beer;347;0.002386954
+0.000326516;0.000310179;g__Nitrosomonadaceae_966-1;kcal;347;0.008386434
+0.001868343;-0.011256898;g__Nitrosomonadaceae_966-1;BodyWeight;347;0.033267982
+0.001934302;0.004246905;g__Nitrosomonadaceae_966-1;OutdoorWeeklyHrs;347;0.034260227
+0.014415961;0.005080147;g__uncultured Nitrosomonadaceae bacterium;pH;345;0.172664968
+0.016926754;0.018158677;g__Nitrospira;MeatConsumptionWeekly;347;0.195571875
+0.020699152;-0.73710161;g__Nitrosomonadaceae_966-1;liquor;347;0.22743821
+0.021906803;-0.329398584;g__Nitrospira;Meals;347;0.2370719
+0.0230461;-0.000346456;g__uncultured Nitrosomonadaceae bacterium;Richness;347;0.24674232
+0.030277961;-0.006922889;g__Nitrosomonadaceae_966-1;BodySize;347;0.301558481
+0.035042197;-0.002394604;g__Nitrosomonadaceae_966-1;Faith_phylogenetic_diversity;347;0.333992821
+0.035397661;0.011769531;g__Nitrospira;SportsWeeklyHrs;347;0.336210827
+0.047777125;-0.057872006;g__Nitrospira;beer;347;0.401089163
+0.053424361;-0.1124334;g__Nitrosomonadaceae_966-1;wine;347;0.423452787
+0.060604937;0.004044714;g__Nitrospira;Faith_phylogenetic_diversity;347;0.453528453
+0.068439266;0.000300652;g__Nitrospira;kcal;347;0.489655235
+0.087507844;0.000251732;g__uncultured Nitrosomonadaceae bacterium;Sebumeter;347;0.566123324
+0.098593548;0.00047683;g__Nitrospira;Richness;347;0.604482381
+0.103394449;0.000142278;g__uncultured Nitrosomonadaceae bacterium;kcal;347;0.61635694
+0.10871715;-0.005859258;g__uncultured Nitrosomonadaceae bacterium;BodyWeight;347;0.625440195
+0.112692422;-0.0109507;g__Nitrospira;BodyWeight;347;0.636425734
+0.124964538;0.004009662;g__Nitrospira;OutdoorWeeklyHrs;347;0.669202202
+0.136083994;-0.004788694;g__uncultured Nitrosomonadaceae bacterium;BodySize;347;0.69832645
+0.208004658;-0.002618583;g__Nitrosomonadaceae_966-1;PCoA_axis_2;347;0.845945511
+0.222066126;0.102816427;g__uncultured Nitrosomonadaceae bacterium;Pielous_evenness;347;0.869264788
+0.231401011;0.004832378;g__uncultured Nitrosomonadaceae bacterium;MeatConsumptionWeekly;347;0.881594543
+0.250764668;-0.002396978;g__uncultured Nitrosomonadaceae bacterium;PCoA_axis_2;347;0.910355213
+0.254849962;-0.690237665;g__Nitrospira;liquor;347;0.910697223
+0.262975432;-0.006801934;g__Nitrospira;BodySize;347;0.915350512
+0.302463712;2.95529E-07;g__Nitrosomonadaceae_966-1;qPCRarchSD;346;0.962585134
+0.330408879;-0.001778759;g__Nitrosomonadaceae_966-1;PCoA_axis_1;347;0.986485951
+0.332132;9.58E-12;g__uncultured Nitrosomonadaceae bacterium;Bacteria;347;0.988488876
+0.344148257;-0.104661146;g__Nitrospira;wine;347;0.994943119
+0.656921595;-0.000133998;g__Nitrosomonadaceae_966-1;Tewameter;347;0.999786945
+0.988801083;2.9208E-05;g__Nitrosomonadaceae_966-1;pH;345;0.999786945
+0.812687125;3.4881E-05;g__Nitrosomonadaceae_966-1;Sebumeter;347;0.999786945
+0.924906649;2.72197E-05;g__Nitrosomonadaceae_966-1;Corneometer;347;0.999786945
+0.932807091;4.53222E-05;g__Nitrosomonadaceae_966-1;Temp;347;0.999786945
+0.483155115;5.04468E-07;g__Nitrosomonadaceae_966-1;AOA;347;0.999786945
+0.565840762;5.65503E-12;g__Nitrosomonadaceae_966-1;Bacteria;347;0.999786945
+0.893754382;1.22379E-07;g__Nitrosomonadaceae_966-1;qPCRamoASD;347;0.999786945
+0.599309247;2.42283E-11;g__Nitrosomonadaceae_966-1;qPCRbactSD;347;0.999786945
+0.374859344;4.35693E-08;g__Nitrosomonadaceae_966-1;qPCRarchMean;346;0.999786945
+0.419202981;-0.087568566;g__Nitrosomonadaceae_966-1;SkinTypeFitzpatrick;339;0.999786945
+0.826442809;-0.000505676;g__Nitrosomonadaceae_966-1;CigarettesPerDay;347;0.999786945
+0.662444384;6.66121E-05;g__Nitrosomonadaceae_966-1;Richness;347;0.999786945
+0.589712565;0.045304727;g__Nitrosomonadaceae_966-1;Pielous_evenness;347;0.999786945
+0.546047799;-0.000345259;g__Nitrospira;Tewameter;347;0.999786945
+0.67529341;-0.001652573;g__Nitrospira;pH;345;0.999786945
+0.360510873;-0.000255032;g__Nitrospira;Sebumeter;347;0.999786945
+0.767863717;-0.000161608;g__Nitrospira;Corneometer;347;0.999786945
+0.828251608;-0.000221099;g__Nitrospira;Temp;347;0.999786945
+0.812306519;3.24E-07;g__Nitrospira;AOA;347;0.999786945
+0.655218032;8.33902E-12;g__Nitrospira;Bacteria;347;0.999786945
+0.868070614;-2.88586E-07;g__Nitrospira;qPCRamoASD;347;0.999786945
+0.866081216;1.47477E-11;g__Nitrospira;qPCRbactSD;347;0.999786945
+0.757333118;2.87784E-08;g__Nitrospira;qPCRarchMean;346;0.999786945
+0.843157362;1.07601E-07;g__Nitrospira;qPCRarchSD;346;0.999786945
+0.715128507;-0.077648585;g__Nitrospira;SkinTypeFitzpatrick;339;0.999786945
+0.86901696;-0.000721063;g__Nitrospira;CigarettesPerDay;347;0.999786945
+0.913105008;-0.017386422;g__Nitrospira;Pielous_evenness;347;0.999786945
+0.730226487;-0.001195691;g__Nitrospira;PCoA_axis_1;347;0.999786945
+0.817524914;0.000911016;g__Nitrospira;PCoA_axis_2;347;0.999786945
+0.509014365;0.000199836;g__uncultured Nitrosomonadaceae bacterium;Tewameter;347;0.999786945
+0.775485058;8.26E-05;g__uncultured Nitrosomonadaceae bacterium;Corneometer;347;0.999786945
+0.636650705;0.000254713;g__uncultured Nitrosomonadaceae bacterium;Temp;347;0.999786945
+0.693994224;-2.84E-07;g__uncultured Nitrosomonadaceae bacterium;AOA;347;0.999786945
+0.514019908;-6.00E-07;g__uncultured Nitrosomonadaceae bacterium;qPCRamoASD;347;0.999786945
+0.441992039;3.56E-11;g__uncultured Nitrosomonadaceae bacterium;qPCRbactSD;347;0.999786945
+0.409163409;4.07E-08;g__uncultured Nitrosomonadaceae bacterium;qPCRarchMean;346;0.999786945
+0.627562434;1.40E-07;g__uncultured Nitrosomonadaceae bacterium;qPCRarchSD;346;0.999786945
+0.351356155;-0.071139315;g__uncultured Nitrosomonadaceae bacterium;Meals;347;0.999786945
+0.431208416;0.088722581;g__uncultured Nitrosomonadaceae bacterium;SkinTypeFitzpatrick;339;0.999786945
+0.519650707;0.001912624;g__uncultured Nitrosomonadaceae bacterium;SportsWeeklyHrs;347;0.999786945
+0.960610447;6.84E-05;g__uncultured Nitrosomonadaceae bacterium;OutdoorWeeklyHrs;347;0.999786945
+0.917741464;-0.000238958;g__uncultured Nitrosomonadaceae bacterium;CigarettesPerDay;347;0.999786945
+0.622464795;-0.007641333;g__uncultured Nitrosomonadaceae bacterium;beer;347;0.999786945
+0.676588688;0.024434612;g__uncultured Nitrosomonadaceae bacterium;wine;347;0.999786945
+0.783533185;0.088212115;g__uncultured Nitrosomonadaceae bacterium;liquor;347;0.999786945
+0.742592713;-0.000602612;g__uncultured Nitrosomonadaceae bacterium;PCoA_axis_1;347;0.999786945
